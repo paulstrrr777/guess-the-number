@@ -1,0 +1,15 @@
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\project\C#\project c#\GAme-guess-the-numberCLI\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
